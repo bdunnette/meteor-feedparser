@@ -1,4 +1,4 @@
 # meteor-feedparser
-Meteor package for node-feedparser.  https://github.com/danmactough/node-feedparser
+This broken.  Try dbeath:feedparser instead.  It exposes Feedparser.
 
-Exposes 'FeedParser' on the server.
+Meteor package for node-feedparser.  https://github.com/danmactough/node-feedparser
