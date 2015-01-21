@@ -1,1 +1,3 @@
-FeedParser = Npm.require('feedparser')
+if (Meteor.isServer) {
+    FeedParser = Npm.require('feedparser')
+}
