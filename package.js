@@ -1,8 +1,8 @@
 Package.describe({
   name: 'danimal:feedparser',
-  summary: ' /* Fill me in! */ ',
-  version: '0.0.1',
-  git: ' /* Fill me in! */ '
+  summary: 'Meteor package for node-feedparser.',
+  version: '1.0.1',
+  git: 'https://github.com/dan335/meteor-feedparser'
 });
 
 Package.onUse(function(api) {
