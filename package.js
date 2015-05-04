@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'danimal:feedparser',
+  name: 'bdunnette:feedparser',
   summary: 'Meteor package for node-feedparser.',
   version: '1.0.3',
-  git: 'https://github.com/dan335/meteor-feedparser'
+  git: 'https://github.com/bdunnette/meteor-feedparser'
 });
 
 Package.onUse(function(api) {
@@ -12,5 +12,5 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-    feedparser: '0.19.2'
+    feedparser: '1.0.1'
 })

@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "feedparser": {
-      "version": "0.19.2",
+      "version": "1.0.1",
       "dependencies": {
         "sax": {
           "version": "0.6.1"
@@ -26,14 +26,6 @@
             },
             "inherits": {
               "version": "2.0.1"
-            }
-          }
-        },
-        "resanitize": {
-          "version": "0.3.0",
-          "dependencies": {
-            "validator": {
-              "version": "1.5.1"
             }
           }
         }
